@@ -1,0 +1,3 @@
+[submodule "hello-test"]
+	path = hello-test
+	url = https://github.com/hbao-gpfw/hello-test
